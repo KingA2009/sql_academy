@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d4c812-7229-464d-ab2e-4fd90187d59c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be5c15eb-6a6d-4c0c-ab94-df44f4888283.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be5c15eb-6a6d-4c0c-ab94-df44f4888283/storage_v2/_src_/database/postgres.edMnLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be5c15eb-6a6d-4c0c-ab94-df44f4888283/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be5c15eb-6a6d-4c0c-ab94-df44f4888283/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be5c15eb-6a6d-4c0c-ab94-df44f4888283/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
