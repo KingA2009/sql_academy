@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6d4c812-7229-464d-ab2e-4fd90187d59c" name="Changes" comment="" />
+    <list default="true" id="a6d4c812-7229-464d-ab2e-4fd90187d59c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task31.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task32.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task33.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task34.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
